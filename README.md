@@ -13,8 +13,8 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
 
 ## 📈 GitHub Stats  
-![Apeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeksha-bhat110305&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeksha-bhat110305&layout=compact&theme=radical)  
+![Apeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamika6249&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6249&layout=compact&theme=radical)  
 
 ## 🔗 Projects  
 - [Fraud Detection System](https://github.com/yourusername/fraud-detection)  
