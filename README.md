@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Apeksha  
 
 ## 🚀 About Me  
-- 🎓 CSE (IoT) Student  
+- 🎓 CSE (IoT,Cyber Security ) Student  
 - 💻 Interested in Cybersecurity & Databases  
 - 🌱 Currently learning [Your Tech/Frameworks]  
-- 📫 Reach me: [LinkedIn](your-link) | [Email](mailto:your@email.com)  
+- 📫 Reach me: [LinkedIn]([your-link](https://www.linkedin.com/in/apeksha-bhat110305)) 
 
 ## 🛠 Languages and Tools  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
