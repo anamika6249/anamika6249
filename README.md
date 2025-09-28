@@ -15,7 +15,7 @@
 ## 📈 GitHub Stats  
 ![Apeksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamika6249&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamika6249&layout=compact&theme=radical)  
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?anamika6249&theme=radical)](https://git.io/streak-stats)
 ## 🔗 Projects  
 - [Fraud Detection System](https://github.com/yourusername/fraud-detection)  
 - [IoT Smart Home](https://github.com/yourusername/iot-smart-home)  
