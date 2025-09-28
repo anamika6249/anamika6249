@@ -4,7 +4,7 @@
 - 🎓 CSE (IoT,Cyber Security ) Student  
 - 💻 Interested in Cybersecurity & Databases  
 - 🌱 Currently learning [Your Tech/Frameworks]  
-- 📫 Reach me: [LinkedIn]([(https://www.linkedin.com/in/apeksha-bhat110305)]) 
+- 📫 Reach me: [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/apeksha-bhat110305/)
 
 ## 🛠 Languages and Tools  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
